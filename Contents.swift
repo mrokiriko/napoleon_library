@@ -168,3 +168,6 @@ func test(lib: Library) {
     
     print("Test successfully passed")
 }
+
+// for online compiler
+// test(lib: Library())
